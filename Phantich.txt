@@ -1,0 +1,29 @@
+Những thành phần thường gặp trên 1 website
+    1.Header <đầu trang>
+    2.navigation <điều hướng>
+    3. braedrumb <cho bt đang ở đâu>
+    4. sidebar <menu con>
+    5. slider <dạng trược>
+    6. Banner
+    7. content <nội dung>
+    8. footer <chân trang>
+
+
+
+thực hành bài 
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+One Page
+
+1. Phân tích -->ok
+    Header
+    slider
+    content
+        about
+        tour
+        contact
+        img
+    footer
+2. Dựng base 
+3. xây dựng từng phân theo phân tích
+4. Hoàn thiện
+
