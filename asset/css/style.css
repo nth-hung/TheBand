@@ -22,9 +22,6 @@ html {
     4. kiểu dáng ( kiểu chữ, hình tròn, vuông)
 
  */
-#main {
-
-}
 /* common */
 .text-white {
     color: white!important;
@@ -195,10 +192,19 @@ html {
 
 #slider {
     margin-top: 46px;
-    padding-top: 50%;
-    background: url('../img/slider/ny.jpg') top center / cover no-repeat;
     position: relative;
 
+}
+
+.mySlider {
+    position: relative;
+}
+
+#slider img {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 #slider .text-content{
@@ -219,10 +225,6 @@ html {
 #slider .text-descriptiong{
     font-size: 15px;
     margin-top: 25px;
-}
-
-#content {
-  
 }
 
 #content .content-section {
